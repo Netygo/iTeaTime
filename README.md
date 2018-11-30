@@ -22,16 +22,16 @@ Et décompressez le fichier .zip sur votre ordinateur
 Exemple : Disque local C > xampp > htdocs
 ```
 
-- Renommez le dossier du nom de votre choix
+- Renommez le dossier décompressé avec le nom de votre choix
 
 ```
-Par exemple iteatime-exercice
+Par exemple : iteatime-exo
 ```
 
 - Dans votre navigateur, copiez-coller l'url suivante :
 
 ```
-localhost/iteatime-exercice
+localhost/iteatime-exo
 ```
 
 Le site est déployé en local !
