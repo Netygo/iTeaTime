@@ -2,22 +2,36 @@
 
 Projet iteatime - Implémentation d'une page web
 
-# Installing
+# Installation en local
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+- Téléchargez xampp
 
 ```
-Give the example
+https://www.apachefriends.org/fr/index.html
 ```
 
-And repeat
+- Téléchargez les fichiers du site présents sur Github
 
 ```
-until finished
+Et décompressez le fichier .zip sur votre ordinateur
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+- Déplacez le dossier décompressé dans le répertoire htdocs situé dans le répertoire xampp
 
+```
+Exemple : Disque local C > xampp > htdocs
+```
 
+- Renommez le dossier du nom de votre choix
+
+```
+Par exemple iteatime-exercice
+```
+
+- Dans votre navigateur, copiez-coller l'url suivante :
+
+```
+localhost/iteatime-exercice
+```
+
+Le site est déployé en local !
